@@ -10,5 +10,3 @@ Pastas principais:
 
 Como usar:
 Abra o arquivo index.php em um servidor local (XAMPP, WAMP, etc.) e acesse pelo navegador.
-
-Desenvolvido por Tainara David - 2025
